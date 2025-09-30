@@ -1,0 +1,1 @@
+{"name":"Local: BeautifulYear","url":"/Users/harjas/Desktop/Misc/coding/BeautifulYear.java","tests":[{"id":1759223658777,"input":"1987","output":"2013"},{"id":1759223671011,"input":"2013","output":"2014"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harjas/Desktop/Misc/coding/BeautifulYear.java","group":"local","local":true}
