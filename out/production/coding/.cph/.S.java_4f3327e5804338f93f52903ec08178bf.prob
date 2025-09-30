@@ -1,0 +1,1 @@
+{"name":"Local: S","url":"/Users/harjas/Desktop/Misc/coding/S.java","tests":[{"id":1758043152683,"input":"3\nRRG","output":"1"},{"id":1758043161045,"input":"5\nRRRRR","output":"4"},{"id":1758043172596,"input":"4\nBRBG","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harjas/Desktop/Misc/coding/S.java","group":"local","local":true}
