@@ -1,0 +1,1 @@
+{"name":"Local: Pan","url":"/Users/harjas/Desktop/Misc/coding/Pan.java","tests":[{"id":1759296178494,"input":"3 5","output":"YES"},{"id":1759296186338,"input":"7 11","output":"YES"},{"id":1759296192913,"input":"7 9","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harjas/Desktop/Misc/coding/Pan.java","group":"local","local":true}
